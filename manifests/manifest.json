@@ -47,6 +47,13 @@
         },
         "on" : "http://fc07574c-a7b9-4cc0-8ed8-c6316750e942"
       } ],
+     "otherContent": [
+    {
+        "@id": "https://workbench.gdmrdigital.com/projects/NPGAnno/images",
+        "@type": "sc:AnnotationList",
+        "label": "My annotations"
+    }
+],
       "related" : ""
     } ]
   } ],
