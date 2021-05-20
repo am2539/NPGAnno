@@ -49,7 +49,7 @@
       } ],
      "otherContent": [
     {
-        "@id": "https://raw.githubusercontent.com/am2539/NPGAnno/main/annotations/annotations.json",
+        "@id": "http://sas.gdmrdigital.com/annotation/list/845105d1aa7e68d49837fc9059e0ad1d.json",
         "@type": "sc:AnnotationList",
         "label": "My annotations"
     }
