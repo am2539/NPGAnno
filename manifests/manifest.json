@@ -49,7 +49,7 @@
       } ],
      "otherContent": [
     {
-        "@id": "https://workbench.gdmrdigital.com/projects/NPGAnno/images",
+        "@id": "https://github.com/am2539/NPGAnno/blob/main/annotations/annotations.json",
         "@type": "sc:AnnotationList",
         "label": "My annotations"
     }
