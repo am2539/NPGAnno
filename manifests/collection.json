@@ -1,0 +1,13 @@
+{
+  "id" : "https://am2539.github.io/NPGAnno/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in am2539/NPGAnno project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://am2539.github.io/NPGAnno/manifests/manifest.json",
+    "label" : "The Kings and Queens of England: From the Conquest to Queen Victoria by Henry Hering"
+  } ]
+}
