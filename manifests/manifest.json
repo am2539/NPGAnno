@@ -49,7 +49,7 @@
       } ],
      "otherContent": [
     {
-        "@id": "http://sas.gdmrdigital.com/annotation/list/845105d1aa7e68d49837fc9059e0ad1d.json",
+        "@id": "https://am2539.github.io/annonatate/annotations/2-1620898019993npgax131392-ptif-0-list.json",
         "@type": "sc:AnnotationList",
         "label": "My annotations"
     }
